@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.40c15d44.css","mappings":"AACA,UAIE,4BAAgC,CAFhC,QAAS,CACT,SAEF","sources":["index.css"],"sourcesContent":["/* src/index.css */\nbody,\nhtml {\n  margin: 0;\n  padding: 0;\n  font-family: 'Arial', sans-serif;\n}"],"names":[],"sourceRoot":""}
